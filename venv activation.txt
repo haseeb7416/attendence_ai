@@ -1,0 +1,2 @@
+cd C:\Users\hHP\Contacts\Desktop\Ai_Attendence\ai_attendance
+.\venv\Scripts\Activate.ps1
